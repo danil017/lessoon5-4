@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.img {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+}
